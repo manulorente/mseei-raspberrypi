@@ -1,2 +1,2 @@
 # RASPBERRYPI
-Raspberry Pi library
+Raspberry Pi example library
